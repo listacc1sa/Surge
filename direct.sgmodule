@@ -97,7 +97,7 @@ DOMAIN,sylvan.apple.com
 # >Sub Store
 DOMAIN,keywos.eu.org
 DOMAIN-KEYWORD,sub-store
-DOMAIN-KEYWORD,,vercel.app
+DOMAIN-KEYWORD,vercel.app
 DOMAIN,suc.flycnb.tk
 # >Spark
 DOMAIN,imap.qq.com
